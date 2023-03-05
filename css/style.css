@@ -1,0 +1,33 @@
+/*simple selectors*/
+/*element*/
+h2{
+	background-color:gray;
+	width:30%;
+	font-size:50px;
+	color:white;
+}
+/*class*/
+.el{
+	background-color:red;
+	width:25%;
+	font-size:40px;
+	border:5px dotted black;
+}
+/*id*/
+#ele{
+	background-color:pink;
+	width:40%;
+	font-size:45px;
+	text-align:center;
+	color:brown;
+}
+/*universal*/
+*{
+	background-color:skyblue;
+}
+/*grouping*/
+h1,h3,.gr{
+	background-color:yellow;
+	width:80%;
+	color:blue;
+}
